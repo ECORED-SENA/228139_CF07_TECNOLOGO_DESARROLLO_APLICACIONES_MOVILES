@@ -25,7 +25,7 @@
           img(src='@/assets/curso/cf1/img37.svg' alt='AvatarTop' style='width: 124px').mb-4
           h3 Satisfacción
           p  Es la respuesta positiva entregada por el usuario o cliente por la realización correcta y eficiente de las actividades se puede medir con la periodicidad que este la realiza y sus muestras positivas hacia el uso del producto.
-      figcaption.mt-4 Nota. https://www.iso.org/obp/ui/#iso:std:iso:9241:-11:ed-1:v1:en
+      figcaption.mt-4 Nota. <a href="https://www.iso.org/obp/ui/#iso:std:iso:9241:-11:ed-1:v1:en" target="_blank">https://www.iso.org/obp/ui/#iso:std:iso:9241:-11:ed-1:v1:en</a>
 
     //h3.mb-4 #[i.fas.fa-angle-double-right.txt--color-acento-contenido] Mejorar la usabilidad
 

@@ -11,7 +11,7 @@
         p Realizar el prototipo de la aplicación móvil permite visualizar de manera clara la estructura gráfica que va a tener la aplicación; permite identificar cada uno de los elementos gráficos que se utilizarán en la <i>app</i>. Es el primer acercamiento que se tiene de la apariencia que adquirirá el <i>front end</i>; esta es una de las técnicas utilizadas para representar cómo va a quedar la aplicación a desarrollar. Es el primer diseño y la primera actividad que podrán evaluar los clientes o usuarios. Se puede realizar a mano alzada o utilizando una herramienta de maquetación o prototipado; dichas herramientas son fáciles de utilizar y no hay necesidad de programar o manejar algún lenguaje de programación.
         p Ejecutar esta actividad ahorrará mucho tiempo y trabajo, ya que permite ver, de manera muy fiel, cómo va a quedar la <i>app</i> y si es necesario optimizar el diseño o cambiar la apariencia y usabilidad de la misma. Este prototipo será la primera entrega que se comparta a los clientes para su validación.
       .col-lg-6
-        img(src="@/assets/curso/cf2/img2.svg" alt="Imagen decorativa personas con celular" )(data-aos="zoom-in-right")
+        img(src="@/assets/curso/cf2/img2.svg" alt="" )(data-aos="zoom-in-right")
     .titulo-sexto.color-acento-contenido.bg-transparent
       h5 Tabla 1
       span Herramientas para la creación de prototipos

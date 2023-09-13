@@ -75,7 +75,7 @@
               h3.mb-1 Análisis de una tarea en Gmail con método HTA
               p.text-small.mb-0 Descargue y explore la infografía que se propone a continuación y amplíe sus conocimientos sobre el #[strong análisis jerárquico de tareas]
             .col-sm-auto
-              a.boton.color-botones(:href="obtenerLink('/downloads/info_analisis_tareas.pdf')" target="_blank")
+              a.boton.color-botones(:href="obtenerLink('/downloads/Analisis_de_una_tarea_en_Gmail_con_metodo_HTA.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
 
@@ -87,7 +87,7 @@
       .col-lg-6.mb-3
         .tarjeta-avatar-b.mb-5.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/cf1/img54.svg' alt='AvatarTop')
+            img(src='@/assets/curso/cf1/img54.svg' alt='')
           .tarjeta.tarjeta--azul.d-flex.align-items-center
             .p-4
               h3 Revisión del material previo
@@ -95,7 +95,7 @@
       .col-lg-6.mb-3
         .tarjeta-avatar-b.mb-5.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/cf1/img55.svg' alt='AvatarTop')
+            img(src='@/assets/curso/cf1/img55.svg' alt='')
           .tarjeta.tarjeta--azul.d-flex.align-items-center
             .p-4
               h3 Identificación de objetos
@@ -103,7 +103,7 @@
       .col-lg-6.mb-3
         .tarjeta-avatar-b.mb-5.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/cf1/img56.svg' alt='AvatarTop')
+            img(src='@/assets/curso/cf1/img56.svg' alt='')
           .tarjeta.tarjeta--azul.d-flex.align-items-center
             .p-4
               h3 Evaluación del contenido
@@ -111,7 +111,7 @@
       .col-lg-6.mb-3
         .tarjeta-avatar-b.mb-5.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/cf1/img57.svg' alt='AvatarTop')
+            img(src='@/assets/curso/cf1/img57.svg' alt='')
           .tarjeta.tarjeta--azul.d-flex.align-items-center
             .p-4
               h3 Aplicar la técnica de <i>card sorting</i>
@@ -126,21 +126,21 @@
     .row
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar.hover-transform
-          img(src='@/assets/curso/cf1/img58.svg' alt='AvatarTop' style='width: 144px').m-auto
+          img(src='@/assets/curso/cf1/img58.svg' alt='' style='width: 144px').m-auto
           .tarjeta.color-4-claro.w-100
             .p-4.text-center
               h3 Búsqueda
               p El usuario utiliza la opción de búsqueda y analiza e interacciona con los resultados.
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar.hover-transform
-          img(src='@/assets/curso/cf1/img59.svg' alt='AvatarTop' style='width: 144px').m-auto
+          img(src='@/assets/curso/cf1/img59.svg' alt='' style='width: 144px').m-auto
           .tarjeta.color-3-claro.w-100
             .p-4.text-center
               h3 Navegación
               p Se presenta cuando el usuario explora utilizando los enlaces hipertextuales.
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar.hover-transform
-          img(src='@/assets/curso/cf1/img60.svg' alt='AvatarTop' style='width: 144px').m-auto
+          img(src='@/assets/curso/cf1/img60.svg' alt='' style='width: 144px').m-auto
           .tarjeta.color-4-claro.w-100
             .p-4.text-center
               h3 Ayuda

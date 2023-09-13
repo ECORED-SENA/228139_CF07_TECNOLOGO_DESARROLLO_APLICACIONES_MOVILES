@@ -5,8 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 9
-      h1 Lenguaje de programación para desarrollo de
-        span.fst-italic apps
+      h1 Lenguaje de programación para desarrollo de #[em apps]
     .row.mb-5.justify-content-center(data-aos="fade-up")
       .col-lg-9
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
@@ -50,7 +49,7 @@
               i.fas.fa-check
               span Lenguaje robusto basado en la programación orientada a objetos.
 
-          p #[em Gauchat (2017)]
+          p Gauchat (2017)
 
         .col-md-8
           figure
@@ -194,12 +193,12 @@
               span Soporta programación orientada a objetos.
 
           p.fst-italic (Seydnejad, 2016)
-      .row(titulo="Frameworks de JavaScript ")
+      .row(titulo="<em>Frameworks</em> de JavaScript ")
         .col-md-4: img(src='@/assets/curso/cf2/img16.svg', alt='')
         .col-md-8.mb-4.mb-md-0
           p Estas herramientas están desarrolladas específicamente para el desarrollo y trabajo de aplicaciones móviles, como Ionic2 y React Native. Tiene entornos de desarrollo que facilitan el desarrollar #[em apps] multiplataforma. Con estos #[em frameworks] y sus librerías, se pueden generar todo tipo de aplicaciones móviles. Su enfoque principal es el desarrollo híbrido, esto quiere decir que, realizando una sola versión de la aplicación, se podrá implementar y funcionará correctamente en iOS o Android.
 
-      .row(titulo="Frameworks más usados")
+      .row(titulo="<em>Frameworks</em> más usados")
         .col-md-4: img(src='@/assets/curso/cf2/img16.svg', alt='')
         .col-md-8.mb-4.mb-md-0
           p Estos son algunos de los <i>frameworks</i> más utilizados en el desarrollo de aplicaciones móviles híbridas:
@@ -250,7 +249,7 @@
               p Se integra con el soporte de comandos NPM, que son los gestores de paquetes para JavaScript, sobre la consola de comandos.
             li
               i.fas.fa-check
-              p Cuenta con soporte en los principales editores de código, como Sublime Text, Visual Studio Code, Atom, WebStorm.
+              p Cuenta con soporte en los principales editores de código, como Sublime Text, Visual Studio Code, WebStorm.
     #t_9_4.titulo-segundo.color-acento-contenido
       h2 9.4 Otros lenguajes de programación
     .row.mb-5

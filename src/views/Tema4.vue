@@ -18,7 +18,7 @@
       h2 4.1 Fases del diseño de las aplicaciones
     p.mb-5 Existen cuatro fases establecidas para el diseño de aplicaciones móviles, definidas por la norma ISO 13407, que integran el proceso del DCU, diseño centrado en el usuario y que están, además, concebidas bajo seis principios que deben caracterizar una interfaz centrada en el usuario. Las dos primeras fases tienen especial intención de documentar las necesidades y requerimientos del usuario.
     figure.mb-5
-      img(src='@/assets/curso/cf1/img39.jpg', alt='Texto que describa la imagen')(data-aos="zoom-in-up")
+      img(src='@/assets/curso/cf1/img39.jpg', alt='')(data-aos="zoom-in-up")
 
     .row.mb-3
       .col-md-6.col-xl.mb-4.mb-xl-0
@@ -53,7 +53,7 @@
       template(v-slot:imagen)
         h4.text-center Diseño centrado en el usuario
         figure
-          img(src='@/assets/curso/cf1/img40.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/cf1/img40.svg', alt='')
           figcaption Nota. Presentación Introducción Al Desarrollo De Aplicaciones Móviles. (2020)
       .tarjeta.color-primario.p-3(x="44%" y="25%")
         .h5.mb-0.text-center Planificación
@@ -84,37 +84,37 @@
       .row(titulo="Conocimiento directo y real")
         .col-md-4
           figure
-            img(src='@/assets/curso/cf1/img42.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/cf1/img42.svg', alt='')
         .col-md-8.mb-4.mb-md-0
           p El diseño se centra en el conocimiento directo y real de los usuarios las tareas a realizar y el entorno. Es preciso comprender a los usuarios, conocer lo que quieren hacer con el sistema y comprender el entorno en el que se va a utilizar el sistema.
       .row(titulo="Usuarios involucrados")
         .col-md-4
           figure
-            img(src='@/assets/curso/cf1/img43.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/cf1/img43.svg', alt='')
         .col-md-8.mb-4.mb-md-0
           p Los usuarios son partícipes a través del diseño y desarrollo. Este principio permite que el equipo de trabajo involucre de manera directa a los usuarios en todas las fases, no solo en la ejecución de un <i>focus group</i> en el inicio del diseño o mediante la aplicación de una encuesta al final de la implementación sino durante todo el proceso de desarrollo.
       .row(titulo="Evaluación centrada en el usuario")
         .col-md-4
           figure
-            img(src='@/assets/curso/cf1/img44.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/cf1/img44.svg', alt='')
         .col-md-8.mb-4.mb-md-0
           p El diseño es depurado y pulido por la evaluación centrada en el usuario. Las pruebas deben llevarse durante todo el transcurso de diseño, por lo que también sirve para probar diseños preliminares, como prototipos en papel.
       .row(titulo="Proceso interactivo")
         .col-md-4
           figure
-            img(src='@/assets/curso/cf1/img45.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/cf1/img45.svg', alt='')
         .col-md-8.mb-4.mb-md-0
           p Es complejo que los usuarios manifiesten de manera clara y sencilla lo que quieren de un sistema. Por esa razón para definir lo que requieren los usuarios, se debe mostrar algo que probablemente no quieren y luego, se irá expresando cómo mejorarlo.
       .row(titulo="Consideración de emociones del usuario")
         .col-md-4
           figure
-            img(src='@/assets/curso/cf1/img46.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/cf1/img46.svg', alt='')
         .col-md-8.mb-4.mb-md-0
           p El diseño se debe ocupar de toda la experiencia del usuario. Este principio indica que el diseño ya no solo busca hacer a la interfaz usable y simple, sino que debe comprender los aspectos de percepción y emoción agrupados a la experiencia del usuario.
       .row(titulo="Participación de expertos")
         .col-md-4
           figure
-            img(src='@/assets/curso/cf1/img47.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/cf1/img47.svg', alt='')
         .col-md-8.mb-4.mb-md-0
           p El equipo de diseño incluye habilidades y perspectivas multidisciplinares. Los conocimientos del diseñador y del programador no son los únicos necesarios para el correcto funcionamiento de la aplicación; se debe incluir la opinión de expertos en accesibilidad, el equipo de #[em marketing], escritores técnicos, y especialmente la de los usuarios finales.
     #t_4_4.titulo-segundo.color-acento-contenido
@@ -127,23 +127,23 @@
     .row
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta.color-1-claro.w-100.p-4.h-100.hover-transform
-          img(src='@/assets/curso/cf1/img48.svg' alt='AvatarTop' style='width: 94px').mb-4
+          img(src='@/assets/curso/cf1/img48.svg' alt='' style='width: 94px').mb-4
           h3 Indagación
           p La indagación se realiza en la etapa de Especificación del contexto de uso y de los requisitos contextualizando el uso e identificando los requerimientos. Está enfocada en el levantamiento de información que permita definir las características principales del producto o servicio se trabaja con los métodos cualitativos de observación, entrevistas, dinámicas de grupo y métodos cuantitativos encuestas y cuestionarios.
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta.color-3-claro.w-100.p-4.h-100.hover-transform
-          img(src='@/assets/curso/cf1/img49.svg' alt='AvatarTop' style='width: 94px').mb-4
+          img(src='@/assets/curso/cf1/img49.svg' alt='' style='width: 94px').mb-4
           h3 Diseño conceptual
           p El diseño conceptual parte de la recolección y análisis realizado en la indagación.
           p Permite entender y analizar las características de los  usuarios y sus necesidades definiendo el uso que le darán a la aplicación móvil es importante esta información porque permite orientar el diseño que se debe implementar para suplir la necesidad.
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta.color-2-claro.w-100.p-4.h-100.hover-transform
-          img(src='@/assets/curso/cf1/img50.svg' alt='AvatarTop' style='width: 94px').mb-4
+          img(src='@/assets/curso/cf1/img50.svg' alt='' style='width: 94px').mb-4
           h3 Diseño de prototipos
           p En esta fase se elaboran los prototipos de baja y alta resolución. Son actividades propias de los diseñadores, estos diseños permiten visualizar la solución de la interfaz. En este punto son relevantes los conocimientos sobre comunicación, semiótica y retórica.
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta.color-4-claro.w-100.p-4.h-100.hover-transform
-          img(src='@/assets/curso/cf1/img51.svg' alt='AvatarTop' style='width: 94px').mb-4
+          img(src='@/assets/curso/cf1/img51.svg' alt='' style='width: 94px').mb-4
           h3 Inspección y test con usuarios
           p Se utilizan las pruebas de usabilidad y test de navegación aplicados a los usuarios que permiten obtener información sobre los diseños para mejorarlos y validarlos.
 </template>

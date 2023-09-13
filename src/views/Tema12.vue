@@ -6,13 +6,13 @@
       .titulo-principal__numero
         span 12
       h1 Gestos
-    p.mb-5 Los gestos son los tipos de movimientos y pulsaciones que el usuario realiza sobre la pantalla del smartphone para activar las funciones de los diferentes elementos que hacen parte de la interfaz gráfica de usuario. Estos gestos y movimientos permiten la interacción con la aplicación.  
+    p.mb-5 Los gestos son los tipos de movimientos y pulsaciones que el usuario realiza sobre la pantalla del smartphone para activar las funciones de los diferentes elementos que hacen parte de la interfaz gráfica de usuario. Estos gestos y movimientos permiten la interacción con la aplicación.
     TabsC.color-acento-contenido.mb-5.bg-transparent
       .py-3.py-md-4(titulo="Principales gestos")
         .row
           .col-md-8.mb-4.mb-md-0
             h4 Principales gestos
-            p Los principales gestos y los más utilizados son tocar, arrastrar, o deslizar, ver, salir, entre otros. Para realizar estos movimientos, se requiere como máximo de dos dedos; para la mayoría de los usuarios, estos gestos son muy comunes y populares. 
+            p Los principales gestos y los más utilizados son tocar, arrastrar, o deslizar, ver, salir, entre otros. Para realizar estos movimientos, se requiere como máximo de dos dedos; para la mayoría de los usuarios, estos gestos son muy comunes y populares.
             .tabla-a.color-acento-botones.mb-5.bg-transparent.table-responsive
               table
                 thead
@@ -25,13 +25,13 @@
                     th Windows Phone
                 tbody
                   tr
-                    td.th-o.h4.fw-bold.text-center 1 
+                    td.th-o.h4.fw-bold.text-center 1
                     td Tocar
                     td Tocar la superficie con la yema del dedo
                     td(colspan=3).text-center Selecciona la acción primaria
-                    
+
                   tr
-                    td.th-o.h4.fw-bold.text-center 2 
+                    td.th-o.h4.fw-bold.text-center 2
                     td Arrastrar
                     td Mover son perder el contacto
                     td Archivar borrar o mover elementos
@@ -47,10 +47,10 @@
           .col-md-4
             .titulo-sexto.color-acento-contenido.bg-transparent
               h5.fw-normal
-                b Figura 9  
+                b Figura 9
                 | Tocar, arrastrar, deslizar
             figure
-              img(src='@/assets/curso/cf2/img38.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/cf2/img38.png', alt='')
               figcaption Nota. Tomada de Introducción al desarrollo de aplicaciones móviles (2020).
       .py-3.py-md-4(titulo="Asimilación de los gestos")
         .row
@@ -70,9 +70,9 @@
                   tr
                     td.th-o.h4.fw-bold.text-center 4
                     td Mantener pulsado
-                    td Tocar durante un periodo prolongado de tiempo 
+                    td Tocar durante un periodo prolongado de tiempo
                     td Entrar al modo de edición de listas, activa íconos ocultos
-                    td Mostrar Un tooltip Aumentar el contenido visible bajo el dedo 
+                    td Mostrar Un tooltip Aumentar el contenido visible bajo el dedo
                     td Mostrar un tooltip, sin seleccionar el elemento
                   tr
                     td.th-o.h4.fw-bold.text-center 5
@@ -81,7 +81,7 @@
                     td Alternar entre acercar y alejar, seleccionar texto.
                     td(colspan="2").text-center Alternar entre acercar y alejar
                   tr
-                    td.th-o.h4.fw-bold.text-center 6 
+                    td.th-o.h4.fw-bold.text-center 6
                     td Juntar y separar
                     td Tocar la superficie con dos dedos y juntarlos o separarlos
                     td(colspan="3").text-center Aumentar o reducir el zoom
@@ -89,15 +89,15 @@
                     td.th-o.h4.fw-bold.text-center 7
                     td Girar
                     td Tocar con dos dedos mientras se gira la muñeca
-                    td(colspan="3").text-center Girar una imagen o un mapa 
+                    td(colspan="3").text-center Girar una imagen o un mapa
           .col-md-4.d-flex
             .contenedor
               .titulo-sexto.color-acento-contenido.bg-transparent
                 h5.fw-normal
-                  b Figura 10  
+                  b Figura 10
                   | Mantener pulsado, doble toque, juntar y separar, girar
               figure.m-auto
-                img(src='@/assets/curso/cf2/img39.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/cf2/img39.png', alt='')
                 figcaption Nota. Tomada de Introducción al desarrollo de aplicaciones móviles (2020).
 
 </template>

@@ -13,46 +13,46 @@
         .row.m-5.align-items-center
           .col-md-3
             figure
-              img(src='@/assets/curso/cf1/img12.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/cf1/img12.svg', alt='')
           .col-md-9.mb-4.mb-md-0
             h4 El código morfológico
             p Son los elementos gráficos  que el diseñador usa para generar las estructuras y el lenguaje gráfico que utilizará en el entorno, algunos en su forma más básica ya están predefinidos y son comprendidos; estos pueden ser figuras geométricas, Regulares, etc. Ejemplo, en el iPhone, la distancia y forma de los íconos.
         .row.m-5.align-items-center
           .col-md-3
             figure
-              img(src='@/assets/curso/cf1/img13.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/cf1/img13.svg', alt='')
           .col-md-9.mb-4.mb-md-0
             h4 El código cromático
             p Enmarca los esquemas de color que se utilizan en determinados diseños. Encierra la selección de intensidad, contraste, luminosidad y demás atributos que contienen la cromaticidad.
         .row.m-5.align-items-center
           .col-md-3
             figure
-              img(src='@/assets/curso/cf1/img14.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/cf1/img14.svg', alt='')
           .col-md-9.mb-4.mb-md-0
             h4 El código tipográfico
             p Se entiende como las propiedades y atributos de los textos y sus caracteres, determinando las particularidades tales como tamaño, forma, peso y orientación.
         .row.m-5.align-items-center
           .col-md-3
             figure
-              img(src='@/assets/curso/cf1/img15.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/cf1/img15.svg', alt='')
           .col-md-9.mb-4.mb-md-0
             h4 El código fotográfico
             p Define las imágenes y fotografías que serán trabajadas y abordadas bajo el mismo patrón, determinadas por el tipo de toma, por el encuadre y por las escalas, entre otras.
         .row.m-5.align-items-center
           .col-md-3
             figure
-              img(src='@/assets/curso/cf1/img16.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/cf1/img16.svg', alt='')
           .col-md-9.mb-4.mb-md-0
             h4 Códigos visuales
             p Los códigos visuales están compuestos por todos los elementos mencionados anteriormente pero ya integrados y estructurados bajo un estilo particular alfabeto, tipografía, iconos, esquemas, ilustración, fotografía.
         .row.m-5.align-items-center
           .col-md-3
             figure
-              img(src='@/assets/curso/cf1/img17.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/cf1/img17.svg', alt='')
           .col-md-9.mb-4.mb-md-0
             h4 Códigos secuenciales
             p Está compuesto por animaciones, video, zonas sensibles, estructuras de interacción.
-    figcaption.mt-3.mb-5 Nota. https://bit.ly/3AIoC6X
+    figcaption.mt-3.mb-5 Nota. <a href="https://bit.ly/3AIoC6X" target="_blank">https://bit.ly/3AIoC6X</a>
     p.mb-5 En este mismo sentido y habiendo conocido los elementos gráficos más utilizados, es importante comprender cómo deben ser distribuidos en el espacio de trabajo, con el fin de realizar una correcta organización de los elementos necesarios para una buena visualización y navegabilidad.
 
     //.titulo-sexto.color-acento-contenido
@@ -128,13 +128,13 @@
       .col-lg-3
         .titulo-sexto.color-acento-contenido
           h5.fw-normal
-            | <i>Retícula Organización De Contenidos</i>
+            | <i>Retícula organización de contenidos</i>
         img.d-block(src="@/assets/curso/cf1/img24.png" style="width: 255px").m-auto
         figcaption Nota. Presentación Introducción Al Desarrollo De Aplicaciones Móviles. (2020)
       .col-lg-3
         .titulo-sexto.color-acento-contenido
           h5.fw-normal
-            | <i>Márgenes y Tamaños de Elementos Gráficos</i>
+            | <i>Márgenes y tamaños de elementos gráficos</i>
         img.d-block(src="@/assets/curso/cf1/img25.png").m-auto
         figcaption Nota. Presentación Introducción Al Desarrollo De Aplicaciones Móviles. (2020)
     #t_2_3.titulo-segundo.color-acento-contenido
@@ -168,7 +168,7 @@
 
     figure.mb-5(data-aos="flip-up")
       img(src='@/assets/curso/cf1/img29.svg' alt='Infografia').mb-3
-      figcaption Nota. https://bit.ly/3wr4sLA
+      figcaption Nota. <a href="https://bit.ly/3wr4sLA" target="_blank">https://bit.ly/3wr4sLA</a>
 
     p.mb-5 Habría que agregar también que los íconos son un lenguaje de signos y diseñar un signo implica, semióticamente, tres dimensiones. Según Royo (2004), estas dimensiones son:
     TabsA.color-acento-contenido.mb-5
@@ -176,7 +176,7 @@
         .row
           .col-xl-4.mb-4
             figure
-              img(src='@/assets/curso/cf1/img31.jpg', alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/cf1/img31.jpg', alt='').m-auto
           .col-xl-8
             h4 Dimensión semiótica
             p Es la relación directa de la imagen con su significado explícito. Existe una relación directa entre el ícono, la imagen y el mensaje. Como, por ejemplo: la papelera de reciclaje.
@@ -184,7 +184,7 @@
         .row
           .col-xl-4.mb-4
             figure
-              img(src='@/assets/curso/cf1/img32.jpg', alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/cf1/img32.jpg', alt='').m-auto
           .col-xl-8
             h4 Dimensión semántica
             p Define un sistema visual en el cual todos los elementos están relacionados y permite identificarlos como una sola estructura.
@@ -192,7 +192,7 @@
         .row
           .col-xl-4.mb-4
             figure
-              img(src='@/assets/curso/cf1/img33.jpg', alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/cf1/img33.jpg', alt='').m-auto
           .col-xl-8
             h4 Dimensión funcional
             p Busca relacionar el icono con la utilidad que el usuario puede identificar, relacionando su significado de manera directa. Respondiendo  a qué tan legible es el ícono para los usuarios y la acción a gestionar.
@@ -200,10 +200,10 @@
       h2 2.5 Ícono de lanzamiento
     .row.mb-5
       .col-lg-7
-        p.mb-5 Se propone el ícono de lanzamiento como el símbolo que identifique a la aplicación. Este ícono será el referente gráfico que relaciona a los usuarios con el producto. Es de suma importancia generar un elemento gráfico con la mejor definición simbólica posible, que sea distintiva, que tenga elementos de originalidad, que también favorezca hacer distinción de la app con respecto a las demás, que tenga visibilidad y resalte en el stock de la tienda de descargas y en la lista de aplicaciones que hayan sido instaladas, por el usuario, en su teléfono inteligente.
+        p.mb-5 Se propone el ícono de lanzamiento como el símbolo que identifique a la aplicación. Este ícono será el referente gráfico que relaciona a los usuarios con el producto. Es de suma importancia generar un elemento gráfico con la mejor definición simbólica posible, que sea distintiva, que tenga elementos de originalidad, que también favorezca hacer distinción de la #[em app] con respecto a las demás, que tenga visibilidad y resalte en el #[em stock] de la tienda de descargas y en la lista de aplicaciones que hayan sido instaladas, por el usuario, en su teléfono inteligente.
         .cajon.color-acento-contenido.p-4.mb-4
           p En definitiva, las características de orden visual, han de comunicar expresa y efectivamente, el objetivo principal que tenga la aplicación y el estilo que define a la aplicación.
-      .col-lg-5: img(src='@/assets/curso/cf1/img34.jpg', alt='Texto que describa la imagen')
+      .col-lg-5: img(src='@/assets/curso/cf1/img34.jpg', alt='')
 
 </template>
 
