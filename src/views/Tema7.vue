@@ -8,11 +8,10 @@
       h1 Dispositivos Y Visualización
     p.mb-5 El elemento primordial de la visualización en un dispositivo es la resolución de pantalla; para comprender qué es la resolución, es importante definir qué son píxeles: estos definen e indican cuál es la resolución de una pantalla. De la cantidad total de píxeles del teléfono, tableta, televisor o monitor, dependen las resoluciones de vídeo que se pueda llegar a alcanzar.
     .titulo-sexto.color-acento-contenido
-      h5.fw-normal 
-        b Figura 11  
-        | <i>Tamaño de dispositivos y visualización</i>
-    figure.mb-5 
-      img(src='@/assets/curso/cf1/img65.jpg')
+      h5 Figura 6.
+      span Tamaño de dispositivos y visualización
+    figure.mb-5
+      img(src='@/assets/curso/cf1/img65.jpg', alt="Presentación del tamaño de las pantallas de los dispositivos móviles del año 2010 al año 2020.")
       figcaption Nota. Presentación Introducción Al Desarrollo De Aplicaciones Móviles. (2020)
     .row.mb-5
       .col-lg-6
@@ -22,7 +21,7 @@
     .row.mb-5
       .col-lg-6
         h4 Imagen y dimensiones de la pantalla
-        p Una manera clara de comprenderlo es: si tenemos una resolución HD de 1280 x 720, quiere decir que la resolución de pantalla está conformada por 1280 columnas de 720 píxeles por columna. Es como una matriz. Por regla general, el primer número hace referencia a la anchura; el segundo, a la altura de la pantalla. 
+        p Una manera clara de comprenderlo es: si tenemos una resolución HD de 1280 x 720, quiere decir que la resolución de pantalla está conformada por 1280 columnas de 720 píxeles por columna. Es como una matriz. Por regla general, el primer número hace referencia a la anchura; el segundo, a la altura de la pantalla.
       .col-lg-6: img(src='@/assets/curso/cf1/img67.jpg')
     .row.mb-5
       .col-lg-6

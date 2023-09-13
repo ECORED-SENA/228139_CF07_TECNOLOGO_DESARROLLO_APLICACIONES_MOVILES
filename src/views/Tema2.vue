@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Diseño De Interfaces Para Aplicaciones Móviles
+      h1 Diseño de interfaces para aplicaciones móviles
     p.mb-5 Con base en la teoría que fundamenta la creación de interfaces gráficas para páginas web y aplicaciones móviles (Vilchis, 1999) el diseño y la comunicación gráfica buscan proyectar los mensajes que el ser humano requiere para generar y establecer un orden jerárquico, estructural y significativo. Por esa razón se hace uso de los denominados códigos visuales, los cuales permiten estructurar, de manera lógica y significativa, grupos de elementos con los que se representan los mensajes visuales. Se pueden, según Vilchis, establecer seis códigos visuales:
 
     .tarjeta1.color-3-claro.bfaf.p-3(data-aos="flip-up")
@@ -55,7 +55,7 @@
     figcaption.mt-3.mb-5 Nota. https://bit.ly/3AIoC6X
     p.mb-5 En este mismo sentido y habiendo conocido los elementos gráficos más utilizados, es importante comprender cómo deben ser distribuidos en el espacio de trabajo, con el fin de realizar una correcta organización de los elementos necesarios para una buena visualización y navegabilidad.
 
-    .titulo-sexto.color-acento-contenido
+    //.titulo-sexto.color-acento-contenido
       h5 Figura 1
       span Contraste De Color
 
@@ -74,13 +74,13 @@
             i.fas.fa-quote-right
           p.text-end Según Sosa y Siegel (2015)
     #t_2_1.titulo-segundo.color-acento-contenido
-      h2 2.1 Legibilidad y Contraste
+      h2 2.1 Legibilidad y contraste
     p.mb-5 Es importante definir los colores y los tamaños del texto, al momento de realizar una lectura; el contraste debe permitir realizar esta actividad con facilidad. También se deben considerar temas como interlineados, espacios, entre otras, para realizar una lectura cómoda y fácil.
 
 
     .row.mb-5.justify-content-center(data-aos="zoom-in-up")
       .col-lg-5
-        .titulo-sexto.color-acento-contenido
+        //.titulo-sexto.color-acento-contenido
           h5 Figura 2
           span Contraste
 
@@ -106,7 +106,7 @@
         h4 Tipografías limpias
         p Cuello y Vittone (2013):
           br
-          |Recomiendan el uso de tipografías limpias abiertas como por ejemplo la fuente llamada <i>sans-serif</i>, porque es mucho más fácil visualizarlas dentro de las pequeñas pantallas que proporcionan los Smartphones para la realización de lecturas largas.
+          |Recomiendan el uso de tipografías limpias abiertas como por ejemplo la fuente llamada <i>sans-serif</i>, porque es mucho más fácil visualizarlas dentro de las pequeñas pantallas que proporcionan los #[em smartphones] para la realización de lecturas largas.
         a.boton.color-acento-botones.mb-5.indicador__container(@click="modal1 = true")
           span Tipo y Tamaño de Fuente
           .indicador--click(v-if="mostrarIndicador")
@@ -123,20 +123,17 @@
       h2 2.2 Retícula
     .row.mb-5.justify-content-between
       .col-lg-5
-        p De acuerdo
         p Estos elementos se utilizan para determinar la zona donde estará ubicada la información. Define las áreas y la división del espacio disponible, estableciendo las proporciones espacios y tamaños que tendrán los diferentes componentes de la interfaz.
         p Una retícula bien estructurada permite asegurar que los elementos contenidos podrán ser accedidos y tocados con el dedo de forma clara y sin problemas. Este es un tema fundamental para el correcto funcionamiento de la aplicación; definir correctamente el espacio de contacto de cada elemento dentro de la pantalla. Se debe, entonces, usar para el espaciado y la separación, un módulo de 8dp. En los márgenes laterales es muy común tener 16dp.
       .col-lg-3
         .titulo-sexto.color-acento-contenido
           h5.fw-normal
-            b Figura 4
             | <i>Retícula Organización De Contenidos</i>
         img.d-block(src="@/assets/curso/cf1/img24.png" style="width: 255px").m-auto
         figcaption Nota. Presentación Introducción Al Desarrollo De Aplicaciones Móviles. (2020)
       .col-lg-3
         .titulo-sexto.color-acento-contenido
           h5.fw-normal
-            b Figura 5
             | <i>Márgenes y Tamaños de Elementos Gráficos</i>
         img.d-block(src="@/assets/curso/cf1/img25.png").m-auto
         figcaption Nota. Presentación Introducción Al Desarrollo De Aplicaciones Móviles. (2020)
@@ -167,25 +164,21 @@
               p Se utiliza especialmente para mostrar mensajes de éxito y revalidación, indicando que una acción o actividad se ha realizado correctamente.
     #t_2_4.titulo-segundo.color-acento-contenido
       h2 2.4 Ícono
-    p.mb-5 Los íconos son los elementos más utilizados en el ámbito del desarrollo de aplicaciones móviles ya que, por su tamaño y composición, permiten una fácil ubicación e interacción. Estos deben ser diseñados cuidadosamente para que las visualizaciones transmitan el mensaje correcto y el usuario entienda, de manera intuitiva, su intencionalidad.
-      b <i>Pierce </i>
-      |categorizó a los signos en tres grupos: los íconos, los índices y los símbolos.
-    .titulo-sexto.color-acento-contenido
-      h5.fw-normal
-        b Tabla 3
-        | <i>Los íconos, los índices y los símbolos</i>
+    p.mb-5 Los íconos son los elementos más utilizados en el ámbito del desarrollo de aplicaciones móviles ya que, por su tamaño y composición, permiten una fácil ubicación e interacción. Estos deben ser diseñados cuidadosamente para que las visualizaciones transmitan el mensaje correcto y el usuario entienda, de manera intuitiva, su intencionalidad. Pierce categorizó a los signos en tres grupos: los íconos, los índices y los símbolos.
+
     figure.mb-5(data-aos="flip-up")
       img(src='@/assets/curso/cf1/img29.svg' alt='Infografia').mb-3
       figcaption Nota. https://bit.ly/3wr4sLA
+
     p.mb-5 Habría que agregar también que los íconos son un lenguaje de signos y diseñar un signo implica, semióticamente, tres dimensiones. Según Royo (2004), estas dimensiones son:
     TabsA.color-acento-contenido.mb-5
-      .tarjeta.color-1-claro2.p-4(titulo="Dimensión Semiótica")
+      .tarjeta.color-1-claro2.p-4(titulo="Dimensión semiótica")
         .row
           .col-xl-4.mb-4
             figure
               img(src='@/assets/curso/cf1/img31.jpg', alt='Texto que describa la imagen').m-auto
           .col-xl-8
-            h4 Dimensión Semiótica
+            h4 Dimensión semiótica
             p Es la relación directa de la imagen con su significado explícito. Existe una relación directa entre el ícono, la imagen y el mensaje. Como, por ejemplo: la papelera de reciclaje.
       .tarjeta.color-1-claro2.p-4(titulo="Dimensión semántica")
         .row

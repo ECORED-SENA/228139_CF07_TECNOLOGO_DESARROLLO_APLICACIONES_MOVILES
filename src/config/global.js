@@ -263,28 +263,28 @@ export default {
     {
       tema: '4.2 Principios del diseño centrado en usuarios',
       referencia:
-        'Campus Party. (2012). CPQuito2 - Principios de diseño de experiencia de usuario para Mobile [Video]. Youtube',
+        'Campus Party. (2012). <em>CPQuito2 - Principios de diseño de experiencia de usuario para Mobile</em>.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=vVZ2F89MiyI',
     },
     {
       tema: '4.2 Principios del diseño centrado en usuarios',
       referencia:
-        'Jose Rafael Rojas B. (2021). Diseño y Desarrollo de Aplicaciones Móviles 01 – Introducción [Video]. Youtube.',
+        'Jose Rafael Rojas B. (2021). <em>Diseño y Desarrollo de Aplicaciones Móviles 01 - Introducción</em>.',
       tipo: 'Video',
       link: 'https://youtu.be/2STnjpA8XQc',
     },
     {
       tema: '8. Prototipo de aplicaciones móviles',
       referencia:
-        'Rivera, K. (2020, 24 junio). Fastest way to design a Mobile App : Using Balsamiq Mockups [Video]. YouTube.',
+        'Rivera, K. (2020, 24 junio). <em>Fastest way to design a Mobile App : Using Balsamiq Mockups</em>.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=RKr9u4S0W7g',
     },
     {
       tema: '8. Prototipo de aplicaciones móviles',
       referencia:
-        'yReyALD. (2020, 22 octubre). BALSAMIQ MOCKUPS / Instalación y maquetación de una aplicación móvil - FÁCIL (música GOT de fondo) [Vídeo]. YouTube.',
+        'yReyALD. (2020, 22 octubre). <em>BALSAMIQ MOCKUPS / Instalación y maquetación de una aplicación móvil - FÁCIL (música GOT de fondo)</em>.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=idX3aFx67Vc ',
     },
@@ -297,13 +297,13 @@ export default {
     },
     {
       tema: '11. Componentes gráficos',
-      referencia: 'Material Design. (s. f.). Components.',
+      referencia: '<em>Material Design. (s. f.). Components.</em>',
       tipo: 'Página web',
       link: 'https://material.io/components?platform=android ',
     },
     {
       tema: '11. Componentes gráficos',
-      referencia: 'Material Design. (s. f.). Banners.',
+      referencia: '<em>Material Design. (s. f.). Banners.</em>',
       tipo: 'Página Web',
       link: 'https://m2.material.io/components/banners#anatomy',
     },
@@ -340,7 +340,7 @@ export default {
         'Es la abreviatura de <i>Picture Element</i> y puede definirse como la unidad más pequeña de color que componen una imagen digital, ya sea una fotografía, vídeo o un fotograma.',
     },
     {
-      termino: 'Skeumorfismo',
+      termino: '<em>Skeumorfismo</em>',
       significado:
         'Su definición estricta es objeto evolucionado/derivado que mantiene detalles del diseño del objeto original con el objetivo de hacerlo más familiar. Viene de las palabras en griego <i>skeuos</i> (herramienta o contenedor) y <i>morphe (shape)</i>.',
     },
@@ -360,14 +360,14 @@ export default {
         'Son esquemas de organización de la información de una aplicación móvil, los cuales muestran las bases principales de la aplicación misma, expresan las relaciones de jerarquía y secuencia, permiten elaborar escenarios de comportamientos de los usuarios; son representados de forma textual, gráfica o ambas combinadas.',
     },
     {
-      termino: 'Mockup',
+      termino: '<em>Mockup</em>',
       significado:
-        'En la fabricación y el diseño, el mockup es una maqueta a escala o de tamaño completo de un diseño o dispositivo, que se utiliza para la enseñanza, demostración, evaluación de diseño, promoción y otros fines.',
+        'En la fabricación y el diseño, el <em>mockup</em> es una maqueta a escala o de tamaño completo de un diseño o dispositivo, que se utiliza para la enseñanza, demostración, evaluación de diseño, promoción y otros fines.',
     },
     {
       termino: 'Multiplataforma',
       significado:
-        'Indica la capacidad o características con las que cuentan algunas aplicaciones móviles o software de escritorio; permiten la interoperabilidad y ejecución sobre diferentes sistemas operativos o plataformas. Algunos lenguajes de programación que facilitan la creación de aplicaciones multiplataforma son Java, C++, <i>JavaScript</i>.',
+        'Indica la capacidad o características con las que cuentan algunas aplicaciones móviles o software de escritorio; permiten la interoperabilidad y ejecución sobre diferentes sistemas operativos o plataformas. Algunos lenguajes de programación que facilitan la creación de aplicaciones multiplataforma son Java, C++, JavaScript.',
     },
   ],
   referencias: [

@@ -6,9 +6,9 @@
       .titulo-principal__numero
         span 5
       h1 Análisis jerárquico de tareas
-    .row.mb-5.justify-content-between 
+    .row.mb-5.justify-content-between
       .col-lg-7
-        p El análisis jerárquico de tareas <i>HTA</i>, por sus siglas en inglés: <i>Hierarchical Task Analysis</i>, permite establecer y describir las acciones por realizar, paso a paso, de manera secuencial, identificando y describiendo cada una de las tareas y actividades, enfocando en las operaciones y procedimientos. 
+        p El análisis jerárquico de tareas <i>HTA</i>, por sus siglas en inglés: <i>Hierarchical Task Analysis</i>, permite establecer y describir las acciones por realizar, paso a paso, de manera secuencial, identificando y describiendo cada una de las tareas y actividades, enfocando en las operaciones y procedimientos.
         p Se prevé que, con el cumplimiento de una serie de tareas concretas, las personas, programas u organizaciones alcanzarán el logro de determinado objetivo o meta. Así mismo, el análisis jerárquico de tareas contempla la creación de un entorno suficiente y válido para poder ejecutar las acciones planeadas. El diseño de aplicaciones móviles, el desarrollo de la interfaz y todos los demás elementos que integran el proceso de programación de las mismas no escapa a este <i>HTA</i>.
       .col-lg-4
         img(src="@/assets/curso/cf1/img52.svg")
@@ -22,49 +22,67 @@
         .tarjeta-numerada.color-primario.px-5.py-3.w-100.h-100.align-items-center.d-flex
           .tarjeta-numerada__numero
             .h2 1
-          p.mb-0 
+          p.mb-0
             b Necesidad de información concreta.
             br
-            b Por ejemplo: 
+            b Por ejemplo:
             span.sp-1.fw-bold “¿Qué costo tiene este producto?”
       .col-md-6.col-xl.mb-4.mb-xl-0.align-items-center.d-flex
         .tarjeta-numerada.color-primario.px-5.py-3.w-100.h-100.align-items-center.d-flex
           .tarjeta-numerada__numero
             .h2 2
-          p.mb-0 
+          p.mb-0
             b Necesidad de información orientada a problemas.
             br
-            b Por ejemplo: 
-            span.sp-1.fw-bold “¿Cuál es la relación entre la usabilidad y la arquitectura de información?” 
+            b Por ejemplo:
+            span.sp-1.fw-bold “¿Cuál es la relación entre la usabilidad y la arquitectura de información?”
     .row.mb-5
       .col-md-6.col-xl.mb-4.mb-xl-0.align-items-center.d-flex
         .tarjeta-numerada.color-primario.px-5.py-3.w-100.h-100.align-items-center.d-flex
           .tarjeta-numerada__numero
             .h2 3
-          p.mb-0 
+          p.mb-0
             b Necesidad de información exploratoria.
             br
-            b Por ejemplo: 
+            b Por ejemplo:
             span.sp-1.fw-bold “Quiero escoger un buen hotel para este fin de semana”
       .col-md-6.col-xl.mb-4.mb-xl-0.align-items-center.d-flex
         .tarjeta-numerada.color-primario.px-5.py-3.w-100.h-100.align-items-center.d-flex
           .tarjeta-numerada__numero
             .h2 4
-          p.mb-0 
+          p.mb-0
             b Necesidad de información sobre búsquedas previas
             |, es decir, localizar información que ya había localizado previamente.
-    .row
+
+
+    //.row
       .col-auto
         a.boton.color-acento-botones.mb-5.indicador__container(@click="modal1 = true")
           span Análisis Jerárquico de Tareas
           .indicador--click(v-if="mostrarIndicador")
-    ModalA(:abrir-modal.sync="modal1")
+    //ModalA(:abrir-modal.sync="modal1")
       .row.justify-content-center
         .col-md-12.mb-4.mb-md-0: img(src="@/assets/curso/cf1/img53.svg")
+
+
+    .tarjeta.tarjeta--gris.p-3.mb-5
+      .row.justify-content-around.align-items-center
+        .col-3.col-sm-2.col-lg-1
+          img(src="@/assets/curso/temas/infografia.svg")
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              h3.mb-1 Análisis de una tarea en Gmail con método HTA
+              p.text-small.mb-0 Descargue y explore la infografía que se propone a continuación y amplíe sus conocimientos sobre el #[strong análisis jerárquico de tareas]
+            .col-sm-auto
+              a.boton.color-botones(:href="obtenerLink('/downloads/info_analisis_tareas.pdf')" target="_blank")
+                span Descargar
+                i.fas.fa-file-download
+
     #t_5_2.titulo-segundo.color-acento-contenido
       h2 5.2 Perceptiva
     p La perceptiva se refiere a todos los elementos que hacen parte de la configuración del entorno, como los colores, las tipografías, logotipos y demás elementos gráficos que componen la interfaz. La perceptiva puede ser funcional, jerárquica o secuencial. Funcional, en tanto la atribución del rol que juegan dichos elementos, es decir, para qué sirven. Jerárquica porque busca distinguir cuáles son prescindibles y cuáles esenciales dentro del grupo de actividades. Por último, será secuencial en tanto toma información del flujo normal y lógico del proceso, permitiendo precisar al usuario una secuencia para lograr la realización de una actividad.
-    p.mb-5 Estos son los pasos básicos para realizar una estructura o una arquitectura de información: 
+    p.mb-5 Estos son los pasos básicos para realizar una estructura o una arquitectura de información:
     .row.mb-5
       .col-lg-6.mb-3
         .tarjeta-avatar-b.mb-5.h-100
@@ -111,21 +129,21 @@
           img(src='@/assets/curso/cf1/img58.svg' alt='AvatarTop' style='width: 144px').m-auto
           .tarjeta.color-4-claro.w-100
             .p-4.text-center
-              h2 Búsqueda
+              h3 Búsqueda
               p El usuario utiliza la opción de búsqueda y analiza e interacciona con los resultados.
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar.hover-transform
           img(src='@/assets/curso/cf1/img59.svg' alt='AvatarTop' style='width: 144px').m-auto
           .tarjeta.color-3-claro.w-100
             .p-4.text-center
-              h2 Navegación
+              h3 Navegación
               p Se presenta cuando el usuario explora utilizando los enlaces hipertextuales.
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar.hover-transform
           img(src='@/assets/curso/cf1/img60.svg' alt='AvatarTop' style='width: 144px').m-auto
           .tarjeta.color-4-claro.w-100
             .p-4.text-center
-              h2 Ayuda
+              h3 Ayuda
               p Es importante generar herramientas que permitan al usuario recurrir por una asistencia que le permita   solicitar una orientación y le señala en dónde se encuentra el contenido que necesita o cuál es el procedimiento a seguir para lograr un objetivo.
 
 </template>
