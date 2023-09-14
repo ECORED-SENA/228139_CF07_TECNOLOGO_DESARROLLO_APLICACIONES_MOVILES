@@ -12,7 +12,7 @@
         p Se prevé que, con el cumplimiento de una serie de tareas concretas, las personas, programas u organizaciones alcanzarán el logro de determinado objetivo o meta. Así mismo, el análisis jerárquico de tareas contempla la creación de un entorno suficiente y válido para poder ejecutar las acciones planeadas. El diseño de aplicaciones móviles, el desarrollo de la interfaz y todos los demás elementos que integran el proceso de programación de las mismas no escapa a este <i>HTA</i>.
       .col-lg-4
         img(src="@/assets/curso/cf1/img52.svg")
-        figcaption Nota. https://bit.ly/3qWtctJ
+        //figcaption Nota. <a href="https://bit.ly/3qWtctJ" target="_blank">https://bit.ly/3qWtctJ</a>
     #t_5_1.titulo-segundo.color-acento-contenido
       h2 5.1 Secuencia
     p.mb-5 Una secuencia es un conjunto de elementos que se ordenan en una determinada sucesión, unos detrás de otros o unos delante de otros. Estas secuencias, por lo general, se presentan como un conjunto de información ordenada. En ese sentido, se habla de tres variables de una secuencia: Selección, Interacción y Tarea unitaria. La primera de ellas, la Selección se refiere a cuando dentro de un conjunto de tareas se tiene que elegir una de ellas; por su parte, la Iteración tiene que ver con la repetición de un subconjunto de tareas y, finalmente la Tarea unitaria se trata de una actividad única que no tiene actividades subordinadas.

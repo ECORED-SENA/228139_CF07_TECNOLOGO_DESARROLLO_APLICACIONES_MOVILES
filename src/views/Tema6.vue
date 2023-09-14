@@ -35,7 +35,7 @@
       span Estructura de una #[em app]
     figure.mb-5
       img(src='@/assets/curso/cf1/img64.svg', alt="Se presenta una estructura jerárquica equilibrada de una app.")
-      figcaption Nota. http://appdesignbook.com/es/
+      figcaption Nota. <a href="http://appdesignbook.com/es/" target="_blank">http://appdesignbook.com/es/</a>
 
 </template>
 

@@ -11,7 +11,7 @@
         p La estructura de navegación define el paso a paso que se debe seguir para cumplir o realizar una actividad. Consiste en determinar la manera en que el usuario explorará los contenidos a través de las pantallas, íconos hipervínculos y demás elementos gráficos que permiten la interacción con la aplicación. Debe ser intuitiva y predecible.
       .col-lg-6: img(src="@/assets/curso/cf2/img40.jpg")
     .titulo-sexto.color-acento-contenido.bg-transparent
-      h5 Figura 4.
+      h5 Figura 7.
       span Estructura de navegación para inicio de sesión
     figure.mb-5
       img.mb-3(src="@/assets/curso/cf2/img41.svg", alt="Se presenta la estructura de navegación desde el inicio de sesión de la app hasta ingresar.")
