@@ -108,10 +108,11 @@
               th Recolectores de tiempo:
               td.fst-italic Time pickers
       figcaption Nota. Tomada de Introducción al desarrollo de aplicaciones móviles (2020).
-    p.mb-5 Son muchos los elementos que refieren a
+
+    //p.mb-5 Son muchos los elementos que refieren a
       b “Componentes gráficos”
       |, por ello le invitamos a visitar los enlaces que se proponen a continuación para afianzar los contenidos de este punto.
-    .row
+    //.row
       .col-lg-5
         a.anexo.mb-4.mb-lg-0(href="https://material.io/components/banners" target="_blank")
           .anexo__icono

@@ -119,8 +119,8 @@
           .col-md-6
             figure
               img(src='@/assets/curso/cf2/img30.svg', alt='')
-    p.mb-5 Para ampliar sus conocimientos sobre los componentes de la interfaz gráfica para móviles, visite el enlace que se le propone. Le recomendamos tomar nota atenta de los aspectos más importantes:
-    .col-lg-6
+    //p.mb-5 Para ampliar sus conocimientos sobre los componentes de la interfaz gráfica para móviles, visite el enlace que se le propone. Le recomendamos tomar nota atenta de los aspectos más importantes:
+    //.col-lg-6
       a.anexo.mb-4.mb-lg-0(href="https://material.io/components?platform=android" target="_blank")
         .anexo__icono
           img(src="@/assets/template/icono-link.svg")

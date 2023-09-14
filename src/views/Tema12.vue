@@ -45,7 +45,7 @@
                     td Desplazarse por el contenido
                     td Cambiar pestañas
           .col-md-4
-            .titulo-sexto.color-acento-contenido.bg-transparent
+            //.titulo-sexto.color-acento-contenido.bg-transparent
               h5.fw-normal
                 b Figura 9
                 | Tocar, arrastrar, deslizar
@@ -92,7 +92,7 @@
                     td(colspan="3").text-center Girar una imagen o un mapa
           .col-md-4.d-flex
             .contenedor
-              .titulo-sexto.color-acento-contenido.bg-transparent
+              //.titulo-sexto.color-acento-contenido.bg-transparent
                 h5.fw-normal
                   b Figura 10
                   | Mantener pulsado, doble toque, juntar y separar, girar
