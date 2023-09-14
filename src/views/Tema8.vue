@@ -47,7 +47,7 @@
             td Esta herramienta se presenta como una buena opción para los que buscan pasar su diseño del papel al plano digital, de manera sencilla. Cuenta con varios estilos y diseños que permiten  utilizar gran cantidad de elementos, diseñando  un  <i>mockup</i> para iOS fácil y rápido.
           tr
             th Wirify
-            td Se basa en el trabajo utilizando un <i>script</i>, que tiene la posibilidad de convertir la interfaz en un sitio <i>web</i>, en un <i>wireframe</i>. Esta herramienta se usa para las creaciones entorno desarrollado, permitiendo la publicación y fácil acceso para la evaluación de interfaz y su funcionamiento.
+            td Se basa en el trabajo utilizando un <i>script</i>, que tiene la posibilidad de convertir la interfaz en un sitio web, en un <i>wireframe</i>. Esta herramienta se usa para las creaciones entorno desarrollado, permitiendo la publicación y fácil acceso para la evaluación de interfaz y su funcionamiento.
           tr
             th Pidoco
             td Esta herramienta permite generar un enlace URL del prototipo diseñado, que puede ser compartido con los usuarios o el cliente, para realizar una retroalimentación.

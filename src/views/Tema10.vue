@@ -14,11 +14,11 @@
           )
           .bloque-texto-g__texto.p-4
             p.mb-0 Lo que define la interacción del usuario con la #[em app], su interfaz y el entorno general son los patrones y estructuras de navegación, planteando la manera en la cual el usuario recorrerá la aplicación, estableciendo el entorno gráfico y la interacción que realizará con los contenidos.
-    .titulo-sexto.color-acento-contenido.bg-transparent
+    //.titulo-sexto.color-acento-contenido.bg-transparent
       h5 Figura 7.
       span La navegación en dispositivos móviles
 
-    .row.mb-5.justify-content-center
+    //.row.mb-5.justify-content-center
       .col-lg-6.flex
         .movilHover.m-auto
           .movilHover__image
@@ -50,8 +50,7 @@
             p Las pestañas se utilizan para realizar el cambio entre pantallas y se trabaja sobre un mismo nivel jerárquico. Es importante resaltar o remarcar la pestaña principal y no usarlas para incluir otras acciones distintas a la navegación, para que el usuario tenga la comodidad y facilidad de tener un punto de partida. Google sugiere no emplear más de siete pestañas, pero en iOS, por ejemplo, se muestra un máximo de cinco pestañas.
           .col-md-5
             .titulo-sexto.color-acento-contenido.bg-transparent
-              h5 Figura 8.
-              span Visualización de pestaña en iphone y en android
+              span Visualización de pestaña en iPhone y en Android
             figure
               img(src='@/assets/curso/cf2/img23.svg', alt='').mb-3
 
@@ -61,7 +60,7 @@
             h4 Lista
             p Por lo general, las listas son muy similares en los tres sistemas operativos más populares: Android, iOS y Windows Phone. Las listas pueden estar integradas por texto, imágenes, botones y elementos gráficos que permitan identificar contenidos. Es importante siempre jerarquizar los contenidos en las listas. Google recomienda la agrupación de ítems relacionados para facilitar la comprensión del usuario al momento de realizar la navegación y la toma de decisiones.
           .col-md-5
-            .titulo-sexto.color-acento-contenido.bg-transparent
+            //.titulo-sexto.color-acento-contenido.bg-transparent
                 h5 Figura 9.
                 span Listas
             figure
@@ -73,7 +72,7 @@
             h4 Menú tipo cajón
             p Por lo general, este menú se encuentra ubicado y se despliega en el lado izquierdo, permite la visualización de los contenidos por medio de una lista que está compuesta por un título principal y subtítulos contenedores de información; permanecen ocultos y sólo se despliegan cuando son solicitados. Una de las grandes ventajas es el aprovechamiento del espacio, presentando una manera cómoda de navegar sobre contenidos nutridos o con gran cantidad de información.
           .col-md-5
-            .titulo-sexto.color-acento-contenido.bg-transparent
+            //.titulo-sexto.color-acento-contenido.bg-transparent
               h5 Figura 10.
               span Menú tipo cajón
             figure
@@ -86,12 +85,10 @@
             p (Cuello y Vittone, 2013)
           .col-md-5
             .titulo-sexto.color-acento-contenido.bg-transparent
-              h5 Figura 11.
               span Botones de acción en aplicación Gmail
             figure.mb-3
               img.mb-2(src='@/assets/curso/cf2/img26.svg', alt='')
             .titulo-sexto.color-acento-contenido.bg-transparent
-              h5 Figura 12.
               span Barra de acción
             figure
               img.mb-2(src='@/assets/curso/cf2/img27.svg', alt='')
@@ -105,13 +102,11 @@
             .d-flex.mb-3
               .contenedor.me-3
                 .titulo-sexto.color-acento-contenido.bg-transparent
-                  h5 Figura 13.
                   span Contraseña incorrecta
                 figure
                   img(src='@/assets/curso/cf2/img28.svg', alt='')
               .contenedor1
                 .titulo-sexto.color-acento-contenido.bg-transparent
-                  h5 Figura 14.
                   span Error del SO
                 figure
                   img(src='@/assets/curso/cf2/img29.svg', alt='')
