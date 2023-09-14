@@ -192,7 +192,8 @@
               i.fas.fa-check
               span Soporta programación orientada a objetos.
 
-          p.fst-italic (Seydnejad, 2016)
+          p.mb-4 (Seydnejad, 2016)
+
       .row(titulo="<em>Frameworks</em> de JavaScript ")
         .col-md-4: img(src='@/assets/curso/cf2/img16.svg', alt='')
         .col-md-8.mb-4.mb-md-0
@@ -243,13 +244,13 @@
           ul.lista-ul--color
             li
               i.fas.fa-check
-              p Cuenta con soporte para las últimas versiones de JavaScript.
+              span Cuenta con soporte para las últimas versiones de JavaScript.
             li
               i.fas.fa-check
-              p Se integra con el soporte de comandos NPM, que son los gestores de paquetes para JavaScript, sobre la consola de comandos.
+              span Se integra con el soporte de comandos NPM, que son los gestores de paquetes para JavaScript, sobre la consola de comandos.
             li
               i.fas.fa-check
-              p Cuenta con soporte en los principales editores de código, como Sublime Text, Visual Studio Code, WebStorm.
+              span Cuenta con soporte en los principales editores de código, como Sublime Text, Visual Studio Code, WebStorm.
     #t_9_4.titulo-segundo.color-acento-contenido
       h2 9.4 Otros lenguajes de programación
     .row.mb-5
