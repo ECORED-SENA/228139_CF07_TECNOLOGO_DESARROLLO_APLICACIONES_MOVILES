@@ -44,7 +44,7 @@
               img(src='@/assets/curso/cf1/img16.svg', alt='')
           .col-md-9.mb-4.mb-md-0
             h4 Códigos visuales
-            p Los códigos visuales están compuestos por todos los elementos mencionados anteriormente pero ya integrados y estructurados bajo un estilo particular alfabeto, tipografía, iconos, esquemas, ilustración, fotografía.
+            p Los códigos visuales están compuestos por todos los elementos mencionados anteriormente, pero ya integrados y estructurados bajo un estilo particular: alfabeto, tipografía, iconos, esquemas, ilustración, fotografía.
         .row.m-5.align-items-center
           .col-md-3
             figure
@@ -52,7 +52,7 @@
           .col-md-9.mb-4.mb-md-0
             h4 Códigos secuenciales
             p Está compuesto por animaciones, video, zonas sensibles, estructuras de interacción.
-    figcaption.mt-3.mb-5 Nota. <a href="https://bit.ly/3AIoC6X" target="_blank">https://bit.ly/3AIoC6X</a>
+    figcaption.mt-3.mb-5 Nota. <a href="http://www.qartuppi.com/2016/UNIVERSO.pdf" target="_blank">http://www.qartuppi.com/2016/UNIVERSO.pdf</a>
     p.mb-5 En este mismo sentido y habiendo conocido los elementos gráficos más utilizados, es importante comprender cómo deben ser distribuidos en el espacio de trabajo, con el fin de realizar una correcta organización de los elementos necesarios para una buena visualización y navegabilidad.
 
     //.titulo-sexto.color-acento-contenido
@@ -123,7 +123,7 @@
       h2 2.2 Retícula
     .row.mb-5.justify-content-between
       .col-lg-5
-        p Estos elementos se utilizan para determinar la zona donde estará ubicada la información. Define las áreas y la división del espacio disponible, estableciendo las proporciones espacios y tamaños que tendrán los diferentes componentes de la interfaz.
+        p Estos elementos se utilizan para determinar la zona donde estará ubicada la información. Define las áreas y la división del espacio disponible, estableciendo las proporciones, espacios y tamaños que tendrán los diferentes componentes de la interfaz.
         p Una retícula bien estructurada permite asegurar que los elementos contenidos podrán ser accedidos y tocados con el dedo de forma clara y sin problemas. Este es un tema fundamental para el correcto funcionamiento de la aplicación; definir correctamente el espacio de contacto de cada elemento dentro de la pantalla. Se debe, entonces, usar para el espaciado y la separación, un módulo de 8dp. En los márgenes laterales es muy común tener 16dp.
       .col-lg-3
         .titulo-sexto.color-acento-contenido
@@ -164,11 +164,11 @@
               p Se utiliza especialmente para mostrar mensajes de éxito y revalidación, indicando que una acción o actividad se ha realizado correctamente.
     #t_2_4.titulo-segundo.color-acento-contenido
       h2 2.4 Ícono
-    p.mb-5 Los íconos son los elementos más utilizados en el ámbito del desarrollo de aplicaciones móviles ya que, por su tamaño y composición, permiten una fácil ubicación e interacción. Estos deben ser diseñados cuidadosamente para que las visualizaciones transmitan el mensaje correcto y el usuario entienda, de manera intuitiva, su intencionalidad. Pierce categorizó a los signos en tres grupos: los íconos, los índices y los símbolos.
+    p.mb-5 Los íconos son los elementos más utilizados en el ámbito del desarrollo de aplicaciones móviles, ya que, por su tamaño y composición, permiten una fácil ubicación e interacción. Estos deben ser diseñados cuidadosamente para que las visualizaciones transmitan el mensaje correcto y el usuario entienda, de manera intuitiva, su intencionalidad. Pierce categorizó a los signos en tres grupos: los íconos, los índices y los símbolos.
 
     figure.mb-5(data-aos="flip-up")
-      img(src='@/assets/curso/cf1/img29.svg' alt='Infografia').mb-3
-      figcaption Nota. <a href="https://bit.ly/3wr4sLA" target="_blank">https://bit.ly/3wr4sLA</a>
+      img(src='@/assets/curso/cf1/img29.svg' alt='Imagen que presenta la definición de ícono, índice y símbolo, con un ejemplo de cada uno.').mb-3
+      figcaption Nota. <a href="https://www.unav.es/gep/Articulos/SRotacion3.html" target="_blank">https://www.unav.es/gep/Articulos/SRotacion3.html</a>
 
     p.mb-5 Habría que agregar también que los íconos son un lenguaje de signos y diseñar un signo implica, semióticamente, tres dimensiones. Según Royo (2004), estas dimensiones son:
     TabsA.color-acento-contenido.mb-5

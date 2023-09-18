@@ -118,7 +118,7 @@
             p (Cuello y Vittone, 2013)
           .col-md-6
             figure
-              img(src='@/assets/curso/cf2/img30.svg', alt='')
+              img(src='@/assets/curso/cf2/img30.svg', alt='Despliegue de acciones. Estas funciones son unos elementos extras donde se organizan actividades a las que se recurre con poca frecuencia; por lo general, se encuentran ocultas a la espera de ser desplegadas.En Android, se ubican dentro de un botón de tres puntos verticales que las abre en forma de lista.Buscar. Se utiliza en algunas apps, sobre todo en aquellas que tienen gran cantidad de datos; es un elemento que facilita realizar algunas actividades a los usuarios.En todos los SO, es común encontrarlo como un cuadro o botón de búsqueda en la parte superior; se localiza dentro de la barra de acciones.')
     //p.mb-5 Para ampliar sus conocimientos sobre los componentes de la interfaz gráfica para móviles, visite el enlace que se le propone. Le recomendamos tomar nota atenta de los aspectos más importantes:
     //.col-lg-6
       a.anexo.mb-4.mb-lg-0(href="https://material.io/components?platform=android" target="_blank")

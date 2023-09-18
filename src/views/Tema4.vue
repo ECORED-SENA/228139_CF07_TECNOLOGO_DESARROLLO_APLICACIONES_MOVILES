@@ -86,7 +86,7 @@
           figure
             img(src='@/assets/curso/cf1/img42.svg', alt='')
         .col-md-8.mb-4.mb-md-0
-          p El diseño se centra en el conocimiento directo y real de los usuarios las tareas a realizar y el entorno. Es preciso comprender a los usuarios, conocer lo que quieren hacer con el sistema y comprender el entorno en el que se va a utilizar el sistema.
+          p El diseño se centra en el conocimiento directo y real de los usuarios, las tareas a realizar y el entorno. Es preciso comprender a los usuarios, conocer lo que quieren hacer con el sistema y comprender el entorno en el que se va a utilizar el sistema.
       .row(titulo="Usuarios involucrados")
         .col-md-4
           figure

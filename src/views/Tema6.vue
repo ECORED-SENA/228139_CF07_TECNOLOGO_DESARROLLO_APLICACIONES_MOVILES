@@ -17,7 +17,7 @@
       span Estructura lineal #[em Messenger] secuencia lineal para iniciar sesión
 
     figure.mb-5
-      img(src='@/assets/curso/cf1/img62.png')
+      img(src='@/assets/curso/cf1/img62.png', alt="Imagen que presenta la secuencia de Messenger para iniciar sesión.")
       figcaption Nota. Presentación Introducción Al Desarrollo De Aplicaciones Móviles. (2020)
 
     h4 Estructuras jerárquicas
@@ -26,7 +26,7 @@
       h5 Figura 4.
       span Estructura jerárquica
     figure.mb-5
-      img(src='@/assets/curso/cf1/img63.svg')
+      img(src='@/assets/curso/cf1/img63.svg', alt="Imagen que presenta cómo es una estructura jerárquica.")
       figcaption Nota. Presentación Introducción Al Desarrollo De Aplicaciones Móviles. (2020)
     h4 Estructuras aleatorias
     p.mb-5 Estas estructuras son utilizadas especialmente en el diseño de videojuegos o sistemas abiertos de interacción, donde el aprendizaje es complejo y se lucha contra el sistema o contra otros jugadores en red. Por ejemplo, al cargar una imagen o un escenario diferente, en cada actualización de la pantalla.
@@ -35,7 +35,6 @@
       span Estructura de una #[em app]
     figure.mb-5
       img(src='@/assets/curso/cf1/img64.svg', alt="Se presenta una estructura jerárquica equilibrada de una app.")
-      figcaption Nota. <a href="http://appdesignbook.com/es/" target="_blank">http://appdesignbook.com/es/</a>
 
 </template>
 

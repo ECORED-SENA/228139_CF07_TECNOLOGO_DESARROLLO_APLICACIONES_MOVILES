@@ -12,101 +12,101 @@
         .cajon.color-primario.color-primario-claro.p-4.mb-4
           p Entonces, es importante conocer las opciones gráficas con las cuales se cuenta para el diseño de la interfaz. Asimismo, considerar el uso, anatomía, comportamiento, tematización y especificaciones de cada uno de los principales componentes de la interfaz gráfica de una aplicación móvil.
       .col-lg-6: img(src="@/assets/curso/cf2/img37.jpg")
-    .titulo-sexto.color-acento-contenido.bg-transparent
-      h5 Tabla 2.
-      span Principales componentes de una interfaz gráfica
+
     .row.mb-5.justify-content-center
-      .col-lg-6
-        .tabla-b.color-acento-contenido.mb-5.bg-transparent.table-responsive
-          .tabla-b__header
-            h5.mb-0
+      .col-lg-8
+        .titulo-sexto.color-acento-contenido.bg-transparent
+          h5 Tabla 2.
+          span Principales componentes de una interfaz gráfica
+        .tabla-a.color-acento-contenido.mb-5.bg-transparent.table-responsive
           table
-            tr
-              th Barras de la aplicación:
-              td parte inferior
-            tr
-              th Barras de la aplicación:
-              td parte superior
-            tr
-              th.fst-italic Banners
-              td
-            tr
-              th Barras navegación inferior
-              td
-            tr
-              th Botones:
-              td.fst-italic buttons
-            tr
-              th Botón de acción flotante:
-              td.fst-italic Buttons: floating action button
-            tr
-              th Tarjetas:
-              td.fst-italic Cards
-            tr
-              th Casillas de verificación:
-              td.fst-italic Checkboxes
-            tr
-              th.fst-italic Chips
-              td
-            tr
-              th Tablas de datos:
-              td.fst-italic Data tables
-            tr
-              th Diálogos:
-              td.fst-italic Dialogs
-            tr
-              th Divisores:
-              td.fst-italic Dividers
-            tr
-              th Listas de imágenes:
-              td.fst-italic Image lists
-      .col-lg-6
-        .tabla-b.color-acento-contenido.mb-5.bg-transparent.table-responsive
-          .tabla-b__header
-            h5.mb-0
-          table
-            tr
-              th Listas:
-              td.fst-italic Lists
-            tr
-              th Menús
-              td
-            tr
-              th Cajón de navegación:
-              td.fst-italic Navigation drawer
-            tr
-              th Carril de navegación:
-              td.fst-italic Navigation rail
-            tr
-              th Indicadores de progreso:
-              td.fst-italic Progress indicators
-            tr
-              th Botones de opción:
-              td.fst-italic Radio buttons
-            tr
-              th Hojas- abajo:
-              td.fst-italic Sheets- bottom
-            tr
-              th Hojas- lado:
-              td.fst-italic Sheets- side
-            tr
-              th Deslizadores:
-              td.fst-italic Sliders
-            tr
-              th.fst-italic Snackbars
-              td
-            tr
-              th Interruptores:
-              td.fst-italic Switches
-            tr
-              th Pestañas:
-              td.fst-italic Tabs
-            tr
-              th Campos de texto:
-              td.fst-italic Text fields
-            tr
-              th Recolectores de tiempo:
-              td.fst-italic Time pickers
+            thead
+              tr
+                th Componente
+                th Ubicación / <br>Componente en inglés
+            tbody
+              tr
+                th Barras de la aplicación:
+                td Parte inferior
+              tr
+                th Barras de la aplicación:
+                td Parte superior
+              tr
+                th.fst-italic Banners
+                td
+              tr
+                th Barras navegación inferior
+                td
+              tr
+                th Botones:
+                td.fst-italic Buttons
+              tr
+                th Botón de acción flotante:
+                td.fst-italic Buttons: floating action button
+              tr
+                th Tarjetas:
+                td.fst-italic Cards
+              tr
+                th Casillas de verificación:
+                td.fst-italic Checkboxes
+              tr
+                th.fst-italic Chips
+                td
+              tr
+                th Tablas de datos:
+                td.fst-italic Data tables
+              tr
+                th Diálogos:
+                td.fst-italic Dialogs
+              tr
+                th Divisores:
+                td.fst-italic Dividers
+              tr
+                th Listas de imágenes:
+                td.fst-italic Image lists
+
+              tr
+                th Listas:
+                td.fst-italic Lists
+              tr
+                th Menús
+                td
+              tr
+                th Cajón de navegación:
+                td.fst-italic Navigation drawer
+              tr
+                th Carril de navegación:
+                td.fst-italic Navigation rail
+              tr
+                th Indicadores de progreso:
+                td.fst-italic Progress indicators
+              tr
+                th Botones de opción:
+                td.fst-italic Radio buttons
+              tr
+                th Hojas- abajo:
+                td.fst-italic Sheets- bottom
+              tr
+                th Hojas- lado:
+                td.fst-italic Sheets- side
+              tr
+                th Deslizadores:
+                td.fst-italic Sliders
+              tr
+                th.fst-italic Snackbars
+                td
+              tr
+                th Interruptores:
+                td.fst-italic Switches
+              tr
+                th Pestañas:
+                td.fst-italic Tabs
+              tr
+                th Campos de texto:
+                td.fst-italic Text fields
+              tr
+                th Recolectores de tiempo:
+                td.fst-italic Time pickers
       figcaption Nota. Tomada de Introducción al desarrollo de aplicaciones móviles (2020).
 
     //p.mb-5 Son muchos los elementos que refieren a

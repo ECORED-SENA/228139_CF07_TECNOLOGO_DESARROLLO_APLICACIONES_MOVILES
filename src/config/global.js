@@ -158,7 +158,7 @@ export default {
       {
         nombreRuta: 'tema9',
         numero: '9',
-        titulo: 'Lenguaje de programación para desarrollo de apps',
+        titulo: 'Lenguaje de programación para desarrollo de <em>apps</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -310,7 +310,7 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Benchmarking',
+      termino: '<em>Benchmarking</em>',
       significado:
         'Se trata del proceso de creación, recopilación, comparación y de análisis de indicadores, que posibilite hacer medición del avance de los procesos y de las funciones de mayor importancia, dentro de una organización. Tales indicadores son conocidos como <i>“benchmarks”</i> y suelen servir como un estándar de éxito de las compañías.',
     },
@@ -531,47 +531,47 @@ export default {
           nombre: 'Henry Eduardo Bastidas Paruma',
           cargo: 'Experto temático',
           centro:
-            'Centro de teleinformática y producción industrial - Regional Cauca',
+            'Centro de Teleinformática y Producción Industrial - Regional Cauca',
         },
         {
           nombre: 'Jonathan Guerrero Astaiza',
           cargo: 'Experto temático',
           centro:
-            'Centro de teleinformática y producción industrial - Regional Cauca',
+            'Centro de Teleinformática y Producción Industrial - Regional Cauca',
         },
         {
           nombre: 'Peter Emerson Pinchao Solis',
           cargo: 'Experto temático',
           centro:
-            'Centro de teleinformática y producción industrial - Regional Cauca',
+            'Centro de Teleinformática y Producción Industrial - Regional Cauca',
         },
         {
           nombre: 'Zulema Yidney León Escobar',
           cargo: 'Experta temática',
           centro:
-            'Centro de teleinformática y producción industrial - Regional Cauca',
+            'Centro de Teleinformática y Producción Industrial - Regional Cauca',
         },
         {
           nombre: 'Oscar Absalón Guevara',
           cargo: 'Diseñador instruccional',
-          centro: 'Centro de gestión industrial - Regional Bogotá',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Alix Cecilia Chinchilla Rueda',
           cargo: 'Diseñadora instruccional',
-          centro: 'Centro de gestión industrial - Regional Bogotá',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'José Gabriel Ortiz Abella',
           cargo: 'Evaluador instruccional',
           centro:
-            'Centro para la industria y la comunicación gráfica - Regional Distrito Capital',
+            'Centro para la Industria y la Comunicación Gráfica - Regional Distrito Capital',
         },
         {
           nombre: 'Julia Isabel Roberto',
           cargo: 'Evaluadora instruccional',
           centro:
-            'Centro para la industria y la comunicación gráfica - Regional Distrito Capital',
+            'Centro para la Industria y la Comunicación Gráfica - Regional Distrito Capital',
         },
         {
           nombre: 'Ana Catalina Córdoba Sus',

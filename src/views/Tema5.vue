@@ -73,7 +73,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               h3.mb-1 Análisis de una tarea en Gmail con método HTA
-              p.text-small.mb-0 Descargue y explore la infografía que se propone a continuación y amplíe sus conocimientos sobre el #[strong análisis jerárquico de tareas]
+              p.text-small.mb-0 Descargue y explore la infografía que se propone a continuación y amplíe sus conocimientos sobre el #[strong análisis jerárquico de tareas].
             .col-sm-auto
               a.boton.color-botones(:href="obtenerLink('/downloads/Analisis_de_una_tarea_en_Gmail_con_metodo_HTA.pdf')" target="_blank")
                 span Descargar

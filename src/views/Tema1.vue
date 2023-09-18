@@ -7,7 +7,7 @@
         span 1
       h1 Interfaz
     p Una interfaz permite la intercomunicación entre un sistema informático implementado en algún dispositivo electrónico y su usuario. Este término proviene del inglés <i>interface</i>, que traduce #[b “superficie de contacto”].
-    p.mb-5 La finalidad es entregar una herramienta que permita, de manera sencilla, visualizar, introducir y editar información generando un mecanismo de interacción de uso.
+    p.mb-5 La finalidad es entregar una herramienta que permita, de manera sencilla, visualizar, introducir y editar información, generando un mecanismo de interacción de uso.
 
     .row.mb-5(data-aos="fade-up")
       .col-md-6.col-lg.mb-5.mb-lg-0
@@ -34,7 +34,7 @@
     #t_1_1.titulo-segundo.color-acento-contenido
       h2 1.1 Interfaz de usuario
     p La interfaz de usuario o el <i>FrontEnd</i> de las aplicaciones móviles, programas y páginas web, sirve de mediador con el usuario de los computadores, <i>Smartphones</i> o todo aquel dispositivo electrónico que cuente con un <i>software</i>. Su función es ofrecer un entorno visual compuesto por gráficos, imágenes, iconos, y animaciones que contribuyen en la integración, visualización y comprensión de la información que brinda la aplicación y generando las herramientas necesarias   para realizar las acciones de interacción.
-    p.mb-5 La interfaz de usuario (UI) también se define como el conjunto de elementos gráficos que permite la interacción funcionando como controles y canales, por medio de los cuales los usuarios se comunican con el dispositivo electrónico. En el diseño de aplicaciones móviles es importante establecer una interfaz de usuario que permita la transferencia de información entre el usuario y la aplicación de manera fluida y sencilla, logrando una buena navegabilidad e interacción.
+    p.mb-5 La Interfaz de Usuario (UI) también se define como el conjunto de elementos gráficos que permite la interacción funcionando como controles y canales, por medio de los cuales los usuarios se comunican con el dispositivo electrónico. En el diseño de aplicaciones móviles es importante establecer una interfaz de usuario que permita la transferencia de información entre el usuario y la aplicación de manera fluida y sencilla, logrando una buena navegabilidad e interacción.
     h4 Categorías
     p.mb-5 Es posible encontrar varias categorías de interfaces de usuarios; estas se clasifican según la interacción que permite con el usuario y lo que se busca es facilitar la interacción entre la máquina y el receptor. Las personas suelen estar familiarizadas con las interfaces gráficas, pero existen otras formas de interacción que serán mostradas a continuación.
     TabsA.color-acento-contenido.mb-5

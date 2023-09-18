@@ -86,7 +86,7 @@
               span Kotlin fue creado buscando suplir los problemas y falencias encontradas en Java.
             li
               i.fas.fa-check
-              span Puede utilizarse en cualquier IDE de Java,de preferencia Android Studio; tiene mejor compatibilidad con este. Al igual que Java,soporta Programación Orientada a Objetos.
+              span Puede utilizarse en cualquier IDE de Java, de preferencia Android Studio; tiene mejor compatibilidad con este. Al igual que Java, soporta Programación Orientada a Objetos.
         .col-md-8
           figure
             img(src='@/assets/curso/cf2/img9.svg', alt='')
@@ -98,7 +98,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
-            p #[strong Enlace web.] Descripción general de Kotlin  |  Desarrolladores de Android  https://developer.android.com/kotlin/overview?hl=es
+            p #[strong Enlace web.] Descripción general de Kotlin  |  Desarrolladores de Android.
 
     #t_9_2.titulo-segundo.color-acento-contenido
       h2 9.2 Lenguajes iOS
@@ -250,7 +250,7 @@
               span Se integra con el soporte de comandos NPM, que son los gestores de paquetes para JavaScript, sobre la consola de comandos.
             li
               i.fas.fa-check
-              span Cuenta con soporte en los principales editores de código, como Sublime Text, Visual Studio Code, WebStorm.
+              span Cuenta con soporte en los principales editores de código, como Sublime Text, Visual Studio Code y WebStorm.
     #t_9_4.titulo-segundo.color-acento-contenido
       h2 9.4 Otros lenguajes de programación
     .row.mb-5
@@ -263,15 +263,16 @@
             figure.hover
               img(src='@/assets/curso/cf2/img18.svg', alt='' style='width:180px ').m-auto
         h3.text-center.text-color C#
-        p.text-center.text-color C# es el idioma de Windows Mobile. Es muy similar a C++ y Java. Microsoft ha adoptado algunas de las características de Java para simplificar su arquitectura, manteniendo el C++ como diseño. También tiene una gran y activa comunidad de desarrolladores.
+        p.text-center.text-color Es el idioma de Windows Mobile, es muy similar a C++ y Java. Microsoft ha adoptado algunas de las características de Java para simplificar su arquitectura, manteniendo el C++ como diseño. También tiene una gran y activa comunidad de desarrolladores.
       .col-md.tarjeta.color-acento-contenido.p-5
         .row.justify-content-center.mb-4
           .col-6
             figure.hover
               img(src='@/assets/curso/cf2/img19.png', alt='' style='width:180px ').m-auto
         h3.text-center Python
-        p.text-center Python es un lenguaje que va tomando cada vez más popularidad; es fácil de aprender y fácil de comprender. Los creadores lograron trabajar en mantener una sintaxis simple y clara. Esto ayuda a los desarrolladores novatos a mantener altos niveles de productividad. Para desarrollar aplicaciones móviles multiplataforma, se utiliza Kivy.
-        p.text-center Todos estos lenguajes de programación de aplicación nativa son compilados, en lugar de interpretados.
+        p.text-center Es un lenguaje que va tomando cada vez más popularidad; es fácil de aprender y fácil de comprender. Los creadores lograron trabajar en mantener una sintaxis simple y clara. Esto ayuda a los desarrolladores novatos a mantener altos niveles de productividad. Para desarrollar aplicaciones móviles multiplataforma, se utiliza Kivy.
+
+    p Todos estos lenguajes de programación de aplicación nativa son compilados, en lugar de interpretados.
 
 </template>
 

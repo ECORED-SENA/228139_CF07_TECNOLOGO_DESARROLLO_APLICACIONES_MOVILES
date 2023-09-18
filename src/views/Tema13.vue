@@ -8,7 +8,7 @@
       h1 Estructura de navegación
     .row.mb-5
       .col-lg-6
-        p La estructura de navegación define el paso a paso que se debe seguir para cumplir o realizar una actividad. Consiste en determinar la manera en que el usuario explorará los contenidos a través de las pantallas, íconos hipervínculos y demás elementos gráficos que permiten la interacción con la aplicación. Debe ser intuitiva y predecible.
+        p La estructura de navegación define el paso a paso que se debe seguir para cumplir o realizar una actividad. Consiste en determinar la manera en que el usuario explorará los contenidos a través de las pantallas, íconos hipervínculos y demás elementos gráficos que permiten la interacción con la aplicación, siendo intuitiva y predecible.
       .col-lg-6: img(src="@/assets/curso/cf2/img40.jpg")
     .titulo-sexto.color-acento-contenido.bg-transparent
       h5 Figura 7.
